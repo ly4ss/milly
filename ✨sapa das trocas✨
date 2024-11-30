@@ -7,7 +7,9 @@
 <h2>troque seu iphone velho por um novo com desconto</h2>
 <h3><strong>troca de aparelhos</stong> </h3>
 <p>compre seu aparelho novo com desconto ao trazer o seu antigo</p>
+<a href="https://www.instagram.com/target="_blank">visite o instagram</a>
 <h4>aparelhos disponiveis</h4>
+<img src="https://www.bitmag.com.br/wp-content/uploads/2024/02/Maos-segurando-iPhones.jpg">
 <ul>
 <li> iphone 7plus seminovo gold</li>
 <li> iphone 7plus seminovo prero</li>
@@ -17,4 +19,20 @@
 <li> iphone 11 seminovo preto</li>
 <li>iphone 12 plus caixa</li>
 </ul>
+<table border="1">
+<thead>preços
+<tr>
+<th> seminovos</th>
+<th> de caixa </th></tr>
+<tr>2000</tr>
+<tr>2000+</tr>
+</thead>
+<form >
+<label for"seu nomezinho"</label>
+<input type="email"id"email" nome="email" requerid>
+<button type="submit">manda p mim bb</button>
+</form>
+
+
+</body>
 </html>
